@@ -32,7 +32,6 @@ linkedin_username: psicologajulianamartins
 twitter_username: psicologajulianamartins
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
